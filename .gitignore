@@ -1,0 +1,15 @@
+## Ignore all:
+
+**/bin/*
+**/build/*
+**/.idea/*
+**/.settings/*
+**/gradle/*
+**/target/*
+.classpath
+.project
+.xml
+.iml
+/.metadata/
+/.recommenders/
+/out/
